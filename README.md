@@ -4,58 +4,38 @@ For Geog 36 Final Project. Analysis of Volcanic Eruption Mount Pinatubo with emp
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Work is done in Python Jupyter Notebook, specifically Anaconda.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Anaconda is recommended. Download online or through command line
 
-```
-Give examples
-```
+[Command Line Installation](https://mas-dse.github.io/startup/anaconda-macosx-install/)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Once you have Anaconda make sure to update everything
 
 ```
-Give the example
+conda update --all
 ```
 
-And repeat
+Then navigate to desired directory and clone the github repo
 
 ```
-until finished
+git clone [link above]
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Simply Run the ipynb notebook. The data is already included in the repo. No need to download.
 
 ## Authors
 
 * **Dylan Hong** - *Initial work* - [DylanHong](https://github.com/DylanHong)
 
-## Acknowledgments
+## Acknowledgments and Data
 
-* Citations here
+* [Volcanic Forcing](https://www.ncdc.noaa.gov/paleo-search/study/5783)
+* [Earthquake Data](https://earthquake.usgs.gov/fdsnws/event/1/)
+* [Eruption Database](https://www.ngdc.noaa.gov/nndc/servlet/ShowDatasets?dataset=102557&search_look=50&display_look=50)
