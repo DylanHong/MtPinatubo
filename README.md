@@ -39,3 +39,4 @@ Simply Run the ipynb notebook. The data is already included in the repo. No need
 * [Volcanic Forcing](https://www.ncdc.noaa.gov/paleo-search/study/5783)
 * [Earthquake Data](https://earthquake.usgs.gov/fdsnws/event/1/)
 * [Eruption Database](https://www.ngdc.noaa.gov/nndc/servlet/ShowDatasets?dataset=102557&search_look=50&display_look=50)
+* [Reference Paper](https://www.researchgate.net/publication/258761783_Volcanic_forcing_for_climate_modeling_A_new_microphysics-based_data_set_covering_years_1600-present)
